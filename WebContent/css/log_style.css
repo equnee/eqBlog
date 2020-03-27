@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: none;
+}
+
+body {
+    font-family: Arial;
+    padding: 50px;
+    background-image:url(image/background.jpg);
+	background-size:cover;
+ 	background-repeat: no-repeat;
+	
+}
+
+.login {
+    margin: 20px auto;
+    width: 300px;
+}
+
+.login-screen {
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 5px
+}
+
+.app-title {
+    text-align: center;
+    color: #777;
+}
+
+.login-form {
+    text-align: center;
+}
+
+.control-group {
+    margin-bottom: 10px;
+}
+
+input {
+    text-align: center;
+    background-color: #ECF0F1;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    width: 250px;
+    transition: border .5s;
+}
+
+input:focus {
+    border: 2px solid #e06579;
+    box-shadow: none;
+}
+
+.btn {
+    border: 2px solid transparent;
+    background: #e06579;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 3px;
+    box-shadow: none;
+    transition: 0.25s;
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.btn:hover {
+    background-color: #e06579;
+}
+
+.login-link {
+    font-size: 12px;
+    color: #444;
+    display: block;
+    margin-top: 12px;
+}
+
+/*-------------------------------------------------*/
+
+select.form-control:not([size]):not([multiple]) {
+    height: calc(2.25rem + 2px);
+}
+select.form-control {
+    padding: .4375rem .75rem;
+    border: 0;
+    outline: 1px solid #ebedf2;
+    color: #777;
+    width: 250px;
+    
+}
+
+.form-control {
+    border: 1px solid #ebedf2;
+    font-family: "ubuntu-regular", sans-serif;
+    font-size: 0.8125rem;
+}
+.form-control {
+    box-shadow: none;
+}
+/*-------------------------------------------------*/
+.btn-inverse-danger {
+    background-color: #fdb2bc;
+    background-image: none;
+    border-color: rgba(254, 124, 150, 0);
+    margin-top: 12px;   
+}
+a{text-decoration : none} 

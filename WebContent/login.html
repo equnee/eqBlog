@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <meta pageEncoding="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+    
+    <title>登录啰</title>
+    <link rel="stylesheet" href="css/log_style.css">
+
+
+</head>
+    <body style="background-image:url(image/background2.jpg)">
+        <div class="login">
+        <FORM METHOD=POST ACTION="login_e.jsp" >
+            <div class="login-screen">
+                <div class="app-title">
+                	
+                    <h1>Login</h1>
+                </div>
+				
+                <div class="login-form">              
+                    <div class="control-group">
+                        <input type="text" class="login-field" NAME="username" value="" placeholder="用户名" id="login-name">
+                        <label class="login-field-icon fui-user" for="login-name"></label>
+                    </div>
+
+                    <div class="control-group">
+                        <input type="password" class="login-field" NAME="pawd" value="" placeholder="密码" id="login-pass" >
+                        <label class="login-field-icon fui-lock" for="login-pass"></label>
+                        
+                    </div>
+                    <INPUT class="btn btn-primary btn-large btn-block"  TYPE="submit" value=" 登录 " onclick="checkform();"  >
+                    <a href="register.jsp" ><button type="button" class="btn btn-inverse-danger btn-fw">注册</button></a>
+                    
+<!--  					<a class="login-link" href="#">忘记密码?</a>
+ -->                </div>
+            </div>
+            </FORM>
+        </div>
+        
+        
+    </body>
+    
+	<script type="text/javascript">
+	        function checkform(){ 
+	            if(document.getElementById('login-name').value.length==0){    
+	                alert('用户名还没输喔');
+	                return false;
+	            }
+	            if(document.getElementById('login-pass').value.length==0){    
+	                alert('密码还没有输喔');
+	                return false;
+	            }
+	           }
+	       
+
+	</script>
+
+
+
+</html>
