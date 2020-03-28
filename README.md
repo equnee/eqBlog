@@ -56,13 +56,11 @@
 
 #### 3.1 局部E-R图
 
-<img src=".\readme_assets\ER.png" style="zoom:67%;" />
+<img src=".\readme_assets\ER.png" style="zoom:50%;" />
 
 #### 3.2 数据表结构设计
 
-![数据表设计](.\readme_assets\1.png)
-
-
+<img src=".\readme_assets\1.png"/>
 
 ## 4. 运行界面截图
 
@@ -70,11 +68,11 @@
 
 ##### 4.1.1 登录
 
-![](.\readme_assets\登录.png)
+<img src=".\readme_assets\登录.png"/>
 
 ##### 4.1.2 注册：
 
-![](.\readme_assets\注册.png)
+<img src=".\readme_assets\注册.png"/>
 
 
 
@@ -82,37 +80,37 @@
 
 ##### 4.2.1文章列表
 
-![](.\readme_assets\文章列表.png)
+<img src=".\readme_assets\文章列表.png"/>
 
 ##### 4.2.2 文章详情
 
-![](.\readme_assets\文章详情.png)
+<img src=".\readme_assets\文章详情.png"/>
 
 ##### 4.2.3 发布文章
 
-![](.\readme_assets\发布文章.png)
+<img src=".\readme_assets\发布文章.png"/>
 
 ##### 4.2.4 评论文章
 
-![](.\readme_assets\评论.png)
+<img src=".\readme_assets\评论.png"/>
 
 ##### 4.2.5 他人主页 
 
-![](.\readme_assets\他人主页.png)
+<img src=".\readme_assets\他人主页.png"/>
 
 ##### 4.2.6 个人主页
 
-![](.\readme_assets\个人主页.png)
+<img src=".\readme_assets\个人主页.png"/>
 
 ##### 4.2.7 修改资料
 
-![](.\readme_assets\修改资料.png)
+<img src=".\readme_assets\修改资料.png"/>
 
 #### 4.3 管理端
 
 ##### 4.3.1 管理员管理端
 
-![](.\readme_assets\管理.png)
+<img src=".\readme_assets\管理.png"/>
 
 
 
