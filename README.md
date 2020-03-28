@@ -56,11 +56,11 @@
 
 #### 3.1 局部E-R图
 
-<img src="D:\Application\JavaWeb\eqBlog\readme_assets\ER.png" style="zoom:67%;" />
+<img src=".\readme_assets\ER.png" style="zoom:67%;" />
 
 #### 3.2 数据表结构设计
 
-![数据表设计](D:\Application\JavaWeb\eqBlog\readme_assets\1.png)
+![数据表设计](.\readme_assets\1.png)
 
 
 
@@ -70,11 +70,11 @@
 
 ##### 4.1.1 登录
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\登录.png)
+![](.\readme_assets\登录.png)
 
 ##### 4.1.2 注册：
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\注册.png)
+![](.\readme_assets\注册.png)
 
 
 
@@ -82,37 +82,37 @@
 
 ##### 4.2.1文章列表
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\文章列表.png)
+![](.\readme_assets\文章列表.png)
 
 ##### 4.2.2 文章详情
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\文章详情.png)
+![](.\readme_assets\文章详情.png)
 
 ##### 4.2.3 发布文章
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\发布文章.png)
+![](.\readme_assets\发布文章.png)
 
 ##### 4.2.4 评论文章
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\评论.png)
+![](.\readme_assets\评论.png)
 
 ##### 4.2.5 他人主页 
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\他人主页.png)
+![](.\readme_assets\他人主页.png)
 
 ##### 4.2.6 个人主页
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\个人主页.png)
+![](.\readme_assets\个人主页.png)
 
 ##### 4.2.7 修改资料
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\修改资料.png)
+![](.\readme_assets\修改资料.png)
 
 #### 4.3 管理端
 
 ##### 4.3.1 管理员管理端
 
-![](D:\Application\JavaWeb\eqBlog\readme_assets\管理.png)
+![](.\readme_assets\管理.png)
 
 
 
